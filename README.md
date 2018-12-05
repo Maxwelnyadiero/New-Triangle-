@@ -16,6 +16,11 @@ The technology used are;
 3. Java Script.
 The major reason is to know how to link HTML,CSS,JS,hence enable them to work together.
 
+## BDD
+Identify the dimension of the triangles
+by using if and else if command,cheek weather the triangles to be formed are Equilateral, Isosceles and Scalene
+post your triangles on your webpage if they meet all of the requirement
+
 ## contact information:
 0702725442
 Email address:maxwelnyadiero@gmail.com
